@@ -1,0 +1,28 @@
+body,footer{
+    background-color: #F5EEDC;
+    text-align: center;
+}
+h1{
+    margin:5% 15%;
+    font-size: 4rem;
+    font-family: 'Pacifico', cursive;
+    color: #DD4A48;
+}
+p{
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bold;
+    font-size: 2rem;
+    color: #DD4A48;
+}
+img{
+    height: 200px;
+    margin-left: 5% 3%;
+}
+.footer{
+    margin-bottom: 10px; 
+}
+.p-footer{
+    margin-top: 6%;
+    font-size: 0.8rem;
+    color: #C0D8C0;
+}
